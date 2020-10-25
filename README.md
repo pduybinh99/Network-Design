@@ -1,5 +1,8 @@
 # Network-Design
-Thiết kế, cấu hình, triển khai và tìm hiểu các dịch vụ mạng cho công ty
+*Mục tiêu project: 
+- Thiết kế sơ đồ mạng cho công ty quy mô nhỏ.
+- Cấu hình routing, triển khai dịch vụ mạng cho công ty.
+
 
 *Đồ án Thiết kế mạng
 Các giai đoạn:
